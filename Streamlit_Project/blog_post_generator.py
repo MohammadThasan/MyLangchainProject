@@ -1,4 +1,3 @@
-
 # Why these prompts are great:
 # You are a professional blogger": Giving the AI a "Persona" (Role prompting) instantly forces it to use a better, more conversational tone.
 # Explicit Instructions: Telling it exactly what you want ("3 main points with subpoints") prevents the AI from hallucinating a massive,
