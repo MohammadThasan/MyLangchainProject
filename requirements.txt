@@ -1,3 +1,6 @@
+langchain-classic
+langchain-chroma
+langchain-text-splitters
 streamlit
 langchain
 langchain-core
